@@ -1,1 +1,3 @@
-# python_ML_marathon
+# Python ML 統計相關練習
+
+## 主要是在做統計學相關計算練習
